@@ -29,7 +29,7 @@ const Hero = () => {
               Hi, I'm <span className="text-blue-600">Mohammed</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              22-year-old Computer Science Engineering Student & Full-Stack Developer passionate about creating beautiful, functional digital experiences
+              22-year-old Computer Science Engineering Student & Full-Stack Developer passionate about creating beautiful functional digital experiences
             </p>
           </div>
         </motion.div>
