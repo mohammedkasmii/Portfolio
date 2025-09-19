@@ -75,21 +75,21 @@ const Hero = () => {
         <motion.div variants={fadeInUp} className="flex justify-center space-x-6">
           <motion.a
             whileHover={{ y: -3 }}
-            href="https://github.com"
+            href="https://github.com/mohammedkasmii"
             className="text-gray-600 hover:text-blue-600 transition-colors"
           >
             <Github className="h-6 w-6" />
           </motion.a>
           <motion.a
             whileHover={{ y: -3 }}
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/kasmi-mohammed"
             className="text-gray-600 hover:text-blue-600 transition-colors"
           >
             <Linkedin className="h-6 w-6" />
           </motion.a>
           <motion.a
             whileHover={{ y: -3 }}
-            href="mailto:mohammed@example.com"
+            href="mailto:mohammedkasmi7603@gmail.com"
             className="text-gray-600 hover:text-blue-600 transition-colors"
           >
             <Mail className="h-6 w-6" />
